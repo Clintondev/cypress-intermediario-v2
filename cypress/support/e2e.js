@@ -20,6 +20,8 @@ import './gui_login'
 import './logout'
 import './gui_createProject'
 import './gui_createIssue'
+import './gui_setLabelOnIssue'
+import './gui_setMilestoneOnIssue'
 
 import './api_commands'
 
